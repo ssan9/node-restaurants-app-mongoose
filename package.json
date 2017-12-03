@@ -1,9 +1,6 @@
 {
   "name": "node-restaurants-mongoose",
   "version": "1.0.0",
-  "engines": {
-    "node": "6.11.4"
-  },
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,5 +22,4 @@
     "faker": "^3.1.0",
     "mocha": "^3.2.0"
   }
-  
 }
